@@ -1,7 +1,7 @@
 LD30
 ====
 
-Contribution to the LD30 Compo.
+Contribution to the Ludum Dare 48 Hour Game Jam LD30 Compo.
 
 LD30 compo entry - Connecting Literature and Game Worlds.
 
