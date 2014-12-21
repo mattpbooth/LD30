@@ -10,4 +10,4 @@ See how much of the full novel of Alice's Adventures in Wonderland you can get t
 
 http://synchingfeeling.itch.io/alice
 
-Bit of a writeup at http://www.gamedevblog.co.uk/making-a-1-hour-game-for-a-48-hour-game-jam/
+Bit of a writeup on my [blog.](http://www.gamedevblog.co.uk/making-a-1-hour-game-for-a-48-hour-game-jam/)
